@@ -2,7 +2,9 @@
 Project Name: English to Morse Code Translator
 Creator: Carlos Lazo
 Teacher: Steven Eiselen
-all code was written and run on repl.it
+all code was written and run on repl.it. I made a morse to english translator in Python last year,
+but it got lost to the ages along with my old school gmail. I decided to make an english to morse
+translator in Java in honor of the loss of my old gmail. RIP
 */
 import java.util.*; 
 public class Main{
